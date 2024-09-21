@@ -1,0 +1,22 @@
+{
+  "name": "web3-server",
+  "version": "1.0.0",
+  "description": "Server for a web3 shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenesang/web3-shop.git"
+  },
+  "author": "Eugene Sang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/eugenesang/web3-shop/issues"
+  },
+  "homepage": "https://github.com/eugenesang/web3-shop#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
